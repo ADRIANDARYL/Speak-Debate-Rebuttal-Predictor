@@ -1,0 +1,15 @@
+
+{
+  "test_id": "T001",
+  "language": "English",
+  "debate_side": "Proposition",
+  "debate_input": "University education should be free for everyone. Many talented students cannot attend university because their families cannot afford tuition fees.",
+  "expected_speakers": [],
+  "expected_arguments": [],
+  "expected_rebuttal_links": [],
+  "expected_rebuttals": [
+    "Free university education would place an excessive financial burden on the government.",
+    "Universal free tuition could disproportionately benefit wealthy families.",
+    "Free education could increase university enrolment beyond available institutional capacity."
+  ]
+}
